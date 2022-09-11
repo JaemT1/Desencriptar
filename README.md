@@ -1,2 +1,2 @@
 # Encriptar
-Proyecto que encripta un mensaje mediante el uso de el código ASCII
+Proyecto que desencripta un mensaje mediante el uso de el código ASCII
